@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://litt7bualb.github.io/cn-nangong28-com/sitemap.xml
